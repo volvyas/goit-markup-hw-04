@@ -1,0 +1,50 @@
+.portfolio {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.portfolio-list {
+    margin-top: 72px;
+    row-gap: 48px;
+    column-gap: 24px;
+}
+
+.portfolio-card {
+    min-width:  288px;
+    max-width:  360px;
+    min-height: 360px;
+    max-height: 420px;
+}
+
+.portfolio-card-content{
+    padding: 32px 16px;
+    border: 1px solid #E7E9FC;
+    border-top: 0px solid #E7E9FC;
+    
+}
+
+.portfolio-card-content p {
+    margin-top: 8px;
+}
+
+.portfolio-main-header {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.111;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+
+.portfolio-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.portfolio-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}

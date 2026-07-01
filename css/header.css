@@ -1,0 +1,43 @@
+.page-header {
+    border-bottom: 1px solid #E7E9FC;
+}
+
+.page-header .flex-container-no-wrap {
+    justify-content: flex-start;
+    gap: 76px;
+}
+
+.page-header .address {
+    margin-left: auto;
+}
+
+.nav-list {
+    display: flex;
+    gap: 40px;
+}
+
+
+.nav-list li a {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    display: block;
+    padding: 24px 0;
+}
+
+.nav-list li a:focus {
+    color: #404bbf;
+}
+
+.address li a {
+    color: #434455;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.address li a:focus {
+    color: #404bbf;
+}
+
