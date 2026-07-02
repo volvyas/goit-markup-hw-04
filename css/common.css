@@ -113,3 +113,7 @@ body {
 .flex-gap-40 {
     gap: 40px;
 }
+
+.flex-gap-120 {
+    gap: 120px;
+}
