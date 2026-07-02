@@ -15,10 +15,23 @@
 .features-header {
     font-size: 20px;
     line-height: 1.2;
-    font-weight: 500
+    font-weight: 500;
+    margin-top: 8px;
 }
 
 .features-text {
     font-size: 16px;
     line-height: 1.2;
+}
+
+.features-icon {
+    background-color: #F4F4FD;
+    border: 1px solid #8E8F99;
+    border-radius: 4px;
+    text-align: center;
+}
+.features-icon svg {
+    width: 64px;
+    height: 64px;
+    margin: 24px;
 }
